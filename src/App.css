@@ -15,12 +15,12 @@
 }
 
 .dark {
-  --color-main: #f68657;
+  --color-main: #00bdaa;
   --color-text: #d6d1d1;
   --color-dark: #f5f6f7;
   --color-gray: #999;
   --color-bg: #1f2124;
-  --color-lighter: #292a2c;
+  --color-lighter: #00bdaa;
   --color-white: #2e3235;
   --color-border:#252629;
 }
@@ -55,10 +55,13 @@ a {
 .container {
   width: 100%;
   height: 100vh;
-  color: var(--color-text);
   background-color: var(--color-bg);
   display: flex;
   align-items: center;
+}
+
+.container {
+  color: var(--color-text);
 }
 
 
