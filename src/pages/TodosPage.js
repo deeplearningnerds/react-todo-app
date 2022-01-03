@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 //import todos from "../assets/data";
 import ListItem from "../components/ListItem";
+import AddButton from "../components/AddButton";
 
 const TodosPage = () => {
 
@@ -28,6 +29,7 @@ const TodosPage = () => {
                     <ListItem key={index} todo={todo}/>
                 ))}
             </div>
+            <AddButton/>
         </div>
     );
 };

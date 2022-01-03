@@ -1,19 +1,19 @@
 {
   "todos": [
     {
-      "id": 1,
-      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad",
-      "updated": "2021-07-14T13:49:02.078653Z"
+      "body": "Heutige Todos:\n- Zimmer aufräumen\n- Lernen\n- Sport machen",
+      "updated": "2022-01-03T12:45:09.109Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
-      "updated": "2021-07-13T20:43:18.550058Z"
+      "body": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "updated": "2022-01-03T12:45:49.117Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "body": "Wash car",
-      "updated": "2021-07-13T19:46:12.187306Z"
+      "body": "Neu",
+      "updated": "2022-01-03T12:45:24.380Z",
+      "id": 3
     }
   ]
 }
